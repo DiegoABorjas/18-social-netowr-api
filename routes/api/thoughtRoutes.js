@@ -12,5 +12,4 @@ router.route('/').get(getThoughts).post(createThought);
 // /api/users/:id
 router.route('/:id').get(getThoughtById);
 
-
 module.exports = router;
