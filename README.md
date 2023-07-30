@@ -43,7 +43,7 @@
 
   ## Walkthrough Video
 
-  https://drive.google.com/file/d/124VBt6vB7I_pN0bA3tHWkxno-waCwHHn/view
+  https://drive.google.com/file/d/1spHOsbc69wvJP1WZ_PRoikkBNVhaEQ02/view
 
   ---
 
